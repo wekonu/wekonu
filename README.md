@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @wekonu
-- 👀 I’m interested in web development and game development
-- 🌱 I’m currently learning javascript and other stuff to be a backend dev
-- 💞️ I’m looking to collaborate on game development (unity) or any web development projects
-- 📫 How to reach me : find me on linkedin linkedin.com/in/wekonu/
+- 👋 Hi, I’m Wahyu
+- 👀 I’m interested in game development and illustration
+- 🌱 Currently learning how to draw and other stuff to be an indie game developer
+- 📫 How to reach me : find me on linkedin linkedin.com/in/wekonu/ and follow me on instagram: @_wekonu
 
 <!---
 wekonu/wekonu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
