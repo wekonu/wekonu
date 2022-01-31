@@ -25,7 +25,7 @@ Want to know my work or want to see how I ruin your project, just reach me via l
 ##  
   
 ## :chart_with_upwards_trend: GitHub Stats  
-[![Streak](http://github-readme-streak-stats.herokuapp.com?user=wekonu&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Streak](http://github-readme-streak-stats.herokuapp.com?user=wekonu&theme=dark&background=000000)](https://git.io/streak-stats)  
 <a href="https://github.com/wekonu">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=wekonu&show_icons=true&line_height=27&count_private=true&title_color=fdfdfd&text_color=fdfdfd&icon_color=fa8b00&bg_color=000000"/>
 </a>
