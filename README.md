@@ -18,9 +18,9 @@
 ##  
 Hi there! :wave:
 I'm Wekonu.  
-I cast spells --or swears, depends on the circumstances-- to computers to create my own world. :sparkles:  
+I cast spells --or swears, depends on the circumstances-- to computers. :sparkles:  
 Basically I'm a programmer.  
-My passion is game development. :video_game:  
+Formally I'm a game developer. :video_game:  
 Want to know my work or want to see how I ruin your project, just reach me via linktree above. :wink:   
 ##  
   
