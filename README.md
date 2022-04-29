@@ -17,7 +17,7 @@
   
 ##  
 Hi there! :wave:
-I'm Wekonu.  
+I'm Wahyu.  
 I cast spells --or swears, depends on the circumstances-- to computers. :sparkles:  
 Basically I'm a programmer.  
 Formally I'm a game developer. :video_game:  
