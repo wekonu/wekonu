@@ -20,7 +20,7 @@ Hi there! :wave:
 I'm Wahyu.  
 I cast spells --or swears, depends on the circumstances-- to computers. :sparkles:  
 Basically I'm a programmer.  
-Formally I'm a game developer. :video_game:  
+Officially I'm a game developer. :video_game:  
 Want to know my work or want to see how I ruin your project, just reach me via linktree above. :wink:   
 ##  
   
