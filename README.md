@@ -21,7 +21,7 @@ I'm Wahyu.
 I cast spells --or swears, depends on the circumstances-- to computers. :sparkles:  
 Basically I'm a programmer.  
 Officially I'm a game developer. :video_game:  
-Want to know my work or want to see how I ruin your project, just reach me via linktree above. :wink:   
+Want to know my work or interested to let me lend a hand on your project, just reach me via linktree above. :wink:   
 ##  
   
 ## :chart_with_upwards_trend: GitHub Stats  
